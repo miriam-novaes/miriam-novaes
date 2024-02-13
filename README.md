@@ -29,6 +29,6 @@ Sobre mim
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miriam-novaes&show_icons=true&locale=en" alt="miriam-novaes" /></p>
 
-|[snake animation](https://github.com/miriam-soares/miriam-soares/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/miriam-soares/miriam-soares/blob/output/github-contribution-grid-snake.svg)
 
 

@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<img align=right src="https://i.pinimg.com/originals/28/0a/05/280a05c05fa4cd05717a9256d661f425.gif" height="200px">
+<img align=right src="https://i.pinimg.com/564x/1f/ce/0a/1fce0abebe5c364f2fe0424c67a28b73.jpg" height="300px">
 
 <div>
 <p>- 📫 How to reach me **miriamsoares2022@gmail.com**</p>
